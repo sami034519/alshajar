@@ -13,7 +13,7 @@ import stp from '../../images/stp.jpg'
 
 import heroImg from '../../images/About_bg.png';
 import dealerImg from '../../images/car-parts-on-a-white-001.jpg';
-import journeyImg from '../../images/hand-mechanic-change-pouring-new-synthetic-motor-o-2025-03-25-10-17-51-utc-820x500.jpg';
+
 
 export default function AboutUs() {
 
